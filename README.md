@@ -10,8 +10,7 @@ Using these data we have computed Pitch and Roll by implementing the concept of 
 theory https://drive.google.com/file/d/12AXD9h-kqCc8qqgwxgwGHYE5vnm_XG6p/view?usp=sharing
 https://github.com/amritanjali123/control_system/blob/master/S-2.m
 first cl]oli\umn contans pitch second roll.
-2)
-In this task, we have implemented Pole Placement Controller and the LQR
+2) In this task, we have implemented Pole Placement Controller and the LQR
 controller on different types of physical systems. we have find out the
 equations of motion for each of the physical systems.
 theory:
