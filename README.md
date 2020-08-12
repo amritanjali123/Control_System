@@ -7,9 +7,11 @@ Readings of registers from Sr. No. 1 to 6 in the Table 1 are from the
 Accelerometer present in the sensor module. Similarly, readings of registers from Sr. No. 7 to 12 in the Table 1 are from the Gyroscope. Accelerometer and Gyroscope in
 the GY-87 sensor module gives us readings for all three axes (X, Y and Z). 
 Using these data we have computed Pitch and Roll by implementing the concept of Complementary Filter on the values filtered by lowpassfilter & highpassfilter.
-*theory:
+theory:
+
 https://drive.google.com/file/d/12AXD9h-kqCc8qqgwxgwGHYE5vnm_XG6p/view?usp=sharing
-*code:
+
+code:
 https://github.com/amritanjali123/control_system/blob/master/S-2.m
 first column contans pitch second roll.
 2) In this task, we have implemented Pole Placement Controller and the LQR
