@@ -1,8 +1,7 @@
 # control_system
 # This is task assigned by E_yantra IIT bombey in round 2
 Task - 1) In this task we have implemented the frequency filters through coding in<br/>
-Octave. here “sensor_data.csv” contains readings from sensor module named GY-87 which is a<br/>
-9-DOF motion sensor. These readings are obtained from 12 registers. These readings are taken at an interval of 10 milliseconds. These readings help us find out the tilt of the body on which the sensor is mounted.<br/>
+Octave. here “sensor_data.csv” contains readings from sensor module named GY-87 which is a 9-DOF motion sensor. These readings are obtained from 12 registers. These readings are taken at an interval of 10 milliseconds. These readings help us find out the tilt of the body on which the sensor is mounted.<br/>
 Readings of registers from Sr. No. 1 to 6 in the Table 1 are from the
 Accelerometer present in the sensor module. Similarly, readings of registers from Sr. No. 7 to 12 in the Table 1 are from the Gyroscope. <br/>Accelerometer and Gyroscope in
 the GY-87 sensor module gives us readings for all three axes (X, Y and Z). 
